@@ -57,7 +57,7 @@
 </div>
 
 <!-- LINE GRAPH STATS -->
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=charbavito&bg_color=0D1117&line=3E899F&color=fff&radius=16&hide_border=true&point=fff&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![](https://activity-graph.herokuapp.com/graph?username=charbavito&bg_color=0D1117&line=3E899F&color=fff&radius=16&hide_border=true&point=fff&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- SOCIAL -->
 <div align="center">
