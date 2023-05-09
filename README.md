@@ -14,7 +14,7 @@
             <span>&nbsp</span>
             <li>:game_die: Internship experience in Data Analysis (Bioinformatics) at the University of São Paulo - (2020/2021)</li>
             <span>&nbsp</span>
-            <li>:ireland: Completing English exchange in Dublin - Ireland - (2021/current)</li>
+            <li>:ireland: Completing English exchange in Dublin - Ireland - (2021/2023)</li>
         </ul>
     </div>
 </div>
