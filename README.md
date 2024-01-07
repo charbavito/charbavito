@@ -10,7 +10,7 @@
         <ul type="none">
             <li>:desktop_computer: Graduating in Computer Science</li>
             <span>&nbsp</span>
-            <li>:rocket: Pursuing a career Computer Graphics</li>
+            <li>:rocket: Pursuing a career in Web Development</li>
             <span>&nbsp</span>
             <li>:game_die: Internship experience in Data Analysis (Bioinformatics) at the University of São Paulo - (2020/2021)</li>
             <span>&nbsp</span>
