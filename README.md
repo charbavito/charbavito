@@ -8,7 +8,7 @@
         <span>&nbsp</span>
         <li>:rocket: Pursuing a career in Data Analysis</li>
         <span>&nbsp</span>
-        <li>:game_die: Internship experience in Data Analysis (Bioinformatics) at the University of Sao Paulo - (2020/2021)</li>
+        <li>:game_die: Experience in Data Analysis (Bioinformatics) at the University of Sao Paulo - (2020/2021)</li>
         <span>&nbsp</span>
         <li>:ireland: English exchange in Dublin - Ireland - (2021/2023)</li>
     </ul>
@@ -29,9 +29,8 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="r language" alt="r language icon" width="45"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql icon" width="45"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="postgresql" alt="postgresql icon" width="45"/>&nbsp; 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter notebook" alt="jupyter notebook icon" width="45"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="sqlite" alt="sqlite icon" width="45"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="scikitlearn" alt="scikitlearn icon" width="45"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter notebook" alt="jupyter notebook icon" width="45"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git icon" width="45"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="tux" alt="linux icon" width="45"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="r-studio" alt="r-studio icon" width="45"/>&nbsp; 
