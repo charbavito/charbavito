@@ -27,20 +27,19 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="pandas" alt="pandas icon" width="45"/>&nbsp; 
     <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="numpy" alt="numpy icon" width="45"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="r language" alt="r language icon" width="45"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="r-studio" alt="r-studio icon" width="45"/>&nbsp; 
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql icon" width="45"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="postgresql" alt="postgresql icon" width="45"/>&nbsp; 
     <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="sqlite" alt="sqlite icon" width="45"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter notebook" alt="jupyter notebook icon" width="45"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git icon" width="45"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="tux" alt="linux icon" width="45"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="r-studio" alt="r-studio icon" width="45"/>&nbsp; 
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode icon" width="45"/>&nbsp;
     <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' title="javascript" alt="javascript icon" width="45"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5 icon" width="45"/>&nbsp; 
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css3" alt="css3 icon" width="45"/>&nbsp;
 </div>
 
-<h1></h1> <!-- SEPARATOR FINE LINE -->
+<h1></h1>
 
 </br>
 
