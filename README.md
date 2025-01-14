@@ -6,9 +6,9 @@
     <ul type="none">
         <li>:desktop_computer: Graduating in Computer Science</li>
         <span>&nbsp</span>
-        <li>:rocket: Pursuing a career in Data Analysis</li>
+        <li>:rocket: Pursuing a career in Data Analysis and Data Science</li>
         <span>&nbsp</span>
-        <li>:game_die: Experience in Data Analysis (Bioinformatics) at the University of Sao Paulo - (2020/2021)</li>
+        <li>:game_die: Experience in Data Mining and Data Analysis (Bioinformatics) at the University of Sao Paulo - (2020/2021)</li>
         <span>&nbsp</span>
         <li>:ireland: English exchange in Dublin - Ireland - (2021/2023)</li>
     </ul>
