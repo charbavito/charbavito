@@ -4,7 +4,17 @@
 <!-- ABOUT -->
 <div align="center" >
     <ul type="none">
+<<<<<<< HEAD
         <li> Data Analyst with solid knowledge in SQL, Python, ETL, Power BI, Excel and agile methodologies such as SCRUM and Kanban. Has experience in Data Mining and Analysis and currently works as a Data Assistant for VISA Inc., through Hyperativa, a technology company specialized in promotions and loyalty marketing.</li>
+=======
+        <li>:desktop_computer: Graduating in Computer Science</li>
+        <span>&nbsp</span>
+        <li>:rocket: Pursuing a career in Data Analysis and Data Science</li>
+        <span>&nbsp</span>
+        <li>:game_die: Experience in Data Mining and Data Analysis (Bioinformatics) at the University of Sao Paulo - (2020/2021)</li>
+        <span>&nbsp</span>
+        <li>:ireland: English exchange in Dublin - Ireland - (2021/2023)</li>
+>>>>>>> refs/remotes/origin/main
     </ul>
 </div>
 
