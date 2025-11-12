@@ -48,7 +48,7 @@
   <a href="https://www.linkedin.com/in/charles-barros">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="110"/>
   </a>
-  <a href="https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/charles+barros-vitoriano/ee8d58b1-6aaf-492b-b04b-e63bc54975ae?view=html">
+  <a href="https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/charles-barros+vitoriano/0f23f8d2-cb87-4699-b39b-02c66d646bd1?view=html">
     <img src="https://img.shields.io/badge/Europass-red?style=plastic&logoColor=black" title="europass" alt="europass icon" width="120"/>&nbsp;
   </a>
 </div>
